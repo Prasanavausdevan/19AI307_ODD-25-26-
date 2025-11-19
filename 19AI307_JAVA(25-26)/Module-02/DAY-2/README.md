@@ -25,8 +25,8 @@ To write a Java program that demonstrates how primitive data is passed by value 
  ```
 /*
 Program to implement a Methods using Java
-Developed by:K MADHAVA REDDY
-RegisterNumber: 212223240064
+Developed by: Prasana v
+RegisterNumber: 212223040150
 */
 ```
 
@@ -60,6 +60,7 @@ class prog {
 
 ## RESULT:
 The program successfully shows that primitive data types in Java are passed by value, so changes inside the method don’t affect the original variable.
+
 
 
 
