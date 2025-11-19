@@ -23,8 +23,8 @@ To define a Java class Teacher with attributes name, subject, and experience.
  ```
 /*
 Program to implement a Class and Objects using Java
-Developed by: K MADHAVA REDDY
-RegisterNumber: 212223240064
+Developed by: Prasana v
+RegisterNumber: 212223040150
 */
 ```
 
@@ -68,6 +68,7 @@ class prog {
 
 ## RESULT:
 The Teacher class is successfully defined with the required attributes and methods.
+
 
 
 
