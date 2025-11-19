@@ -23,8 +23,8 @@ To write a Java program that defines a class Person with private variables and p
  ```
 /*
 Program to implement a Access Specifiers using Java
-Developed by: K MADHAVA REDDY
-RegisterNumber: 212223240064
+Developed by: Prasana v
+RegisterNumber: 212223040150
 */
 ```
 
@@ -98,6 +98,7 @@ public class Main {
 
 ## RESULT:
 The program successfully demonstrates encapsulation using getter and setter methods in Java.
+
 
 
 
