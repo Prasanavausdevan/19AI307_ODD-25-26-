@@ -24,8 +24,8 @@ To write a Java program using inheritance to calculate the final gold price for 
  ```
 /*
 Program to implement a Inheritance and Aggregation using Java
-Developed by: K MADHAVA REDDY
-RegisterNumber: 212223240064
+Developed by: Prasana v
+RegisterNumber: 212223040150
 */
 ```
 
