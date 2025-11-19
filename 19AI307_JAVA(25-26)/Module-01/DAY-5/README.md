@@ -22,8 +22,8 @@ To write a Java program that replaces all spaces in a given string with hyphens 
  ```
 /*
 Program to implement a Strings and Math Function using Java
-Developed by: K MADHAVA REDDY 
-RegisterNumber: 212223240064
+Developed by: Prasana v
+RegisterNumber: 212223040150
 */
 ```
 
@@ -57,6 +57,7 @@ public class ReplaceSpace {
 
 ## RESULT:
 The program successfully replaces all spaces in the input string with hyphens.
+
 
 
 
